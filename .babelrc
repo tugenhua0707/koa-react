@@ -1,0 +1,10 @@
+{
+  "plugins": ["transform-flow-strip-types"],
+  "presets": [
+    "node5",
+    "react"
+  ],
+  "ignore": [
+    "node_modules/**/*.js"
+  ]
+}
